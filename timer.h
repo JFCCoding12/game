@@ -39,6 +39,7 @@ int hunttimer()
 
     }
     printf("Hunt End");
+    return 0;
 
 }
 
